@@ -9,3 +9,11 @@ acerca de la música que escucho.
 - Generación de imágenes basado en los parámetros de la música
 - ¿Recomendación de libros basado en lo que escuchas?
 - Match entre personas
+
+## TODO
+
+- ¿Crear Webapp?
+
+## Cosas similares
+
+- [Stats Spotify](https://www.statsforspotify.com/)
