@@ -13,4 +13,3 @@ for idx, item in enumerate(results['items']):
     print(idx, track['artists'][0]['name'], " – ", track['name'])
     # print("Analysis:" )
     analysis = sp.audio_features(track['id'])
-    # print(analysis)
