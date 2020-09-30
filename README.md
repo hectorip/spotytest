@@ -13,7 +13,13 @@ acerca de la música que escucho.
 ## TODO
 
 - ¿Crear Webapp?
+- Interfaz para usuarios
 
 ## Cosas similares
 
 - [Stats Spotify](https://www.statsforspotify.com/)
+
+## Objetivo
+
+Me gusta mucho la información que Spotify colecta acerca de ti y quisiera hacer mis propios
+análisis.
